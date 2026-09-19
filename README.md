@@ -1,5 +1,7 @@
 # characterization-testing-poc
 
+[![CI](https://github.com/yuninaka/characterization-testing-poc/actions/workflows/test.yml/badge.svg)](https://github.com/yuninaka/characterization-testing-poc/actions/workflows/test.yml)
+
 レガシーコードの意図不明な挙動を、中身を読まずに保護テスト（Characterization
 Testing / ゴールデンマスターテスト）として資産化する型を確立するための実務ノート。
 
