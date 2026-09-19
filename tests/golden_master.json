@@ -1,0 +1,6194 @@
+[
+  {
+    "base_price": -9999,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -9999,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -100,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -15,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -10,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -5,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": -1,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": -1
+  },
+  {
+    "base_price": 0,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": -1
+  },
+  {
+    "base_price": 0,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 0,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 1,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 0
+  },
+  {
+    "base_price": 1,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 0
+  },
+  {
+    "base_price": 1,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 1,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 2,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1
+  },
+  {
+    "base_price": 2,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1
+  },
+  {
+    "base_price": 2,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 2,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 3,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 2
+  },
+  {
+    "base_price": 3,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 2
+  },
+  {
+    "base_price": 3,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 3,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 4,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 3
+  },
+  {
+    "base_price": 4,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 3
+  },
+  {
+    "base_price": 4,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 4
+  },
+  {
+    "base_price": 4,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 4
+  },
+  {
+    "base_price": 5,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 5
+  },
+  {
+    "base_price": 5,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 5
+  },
+  {
+    "base_price": 5,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 5,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 6,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 5
+  },
+  {
+    "base_price": 6,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 6,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 6,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 6,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 6
+  },
+  {
+    "base_price": 6,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 7,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 7
+  },
+  {
+    "base_price": 7,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 7
+  },
+  {
+    "base_price": 7,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 7,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 8,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 8
+  },
+  {
+    "base_price": 8,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 8
+  },
+  {
+    "base_price": 8,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 8,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 9,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 9
+  },
+  {
+    "base_price": 9,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 9
+  },
+  {
+    "base_price": 9,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 9,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 10,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 10
+  },
+  {
+    "base_price": 10,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 10
+  },
+  {
+    "base_price": 10,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 10,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 11,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 11
+  },
+  {
+    "base_price": 11,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 11
+  },
+  {
+    "base_price": 11,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 11,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 12,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 12
+  },
+  {
+    "base_price": 12,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 12
+  },
+  {
+    "base_price": 12,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 12,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 13,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 13
+  },
+  {
+    "base_price": 13,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 13
+  },
+  {
+    "base_price": 13,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 13,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 14,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 14
+  },
+  {
+    "base_price": 14,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 14
+  },
+  {
+    "base_price": 14,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 15
+  },
+  {
+    "base_price": 14,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 15
+  },
+  {
+    "base_price": 15,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 16
+  },
+  {
+    "base_price": 15,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 16
+  },
+  {
+    "base_price": 15,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 15,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 16,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 16
+  },
+  {
+    "base_price": 16,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 16,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 16,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 16,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 16,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 17,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 17
+  },
+  {
+    "base_price": 17,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 17,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 17,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 17,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 17,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 18,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 18
+  },
+  {
+    "base_price": 18,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 18,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 18,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 18,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 19
+  },
+  {
+    "base_price": 18,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 19,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 20
+  },
+  {
+    "base_price": 19,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 20
+  },
+  {
+    "base_price": 19,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 19,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 20,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 21
+  },
+  {
+    "base_price": 20,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 21
+  },
+  {
+    "base_price": 20,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 20,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 21,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 22
+  },
+  {
+    "base_price": 21,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 22
+  },
+  {
+    "base_price": 21,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 21,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 22,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 23
+  },
+  {
+    "base_price": 22,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 23
+  },
+  {
+    "base_price": 22,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 22,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 23,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 24
+  },
+  {
+    "base_price": 23,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 24
+  },
+  {
+    "base_price": 23,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 23,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 24,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 25
+  },
+  {
+    "base_price": 24,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 25
+  },
+  {
+    "base_price": 24,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 26
+  },
+  {
+    "base_price": 24,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 26
+  },
+  {
+    "base_price": 25,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 27
+  },
+  {
+    "base_price": 25,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 27
+  },
+  {
+    "base_price": 25,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 25,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 26,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 27
+  },
+  {
+    "base_price": 26,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 26,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 26,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 26,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 26,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 27,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 28
+  },
+  {
+    "base_price": 27,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 27,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 27,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 27,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 27,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 28,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 29
+  },
+  {
+    "base_price": 28,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 28,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 28,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 28,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 28,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 29,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 30
+  },
+  {
+    "base_price": 29,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 29,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 29,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 29,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 29,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 33
+  },
+  {
+    "base_price": 30,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 31
+  },
+  {
+    "base_price": 30,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 33
+  },
+  {
+    "base_price": 30,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 33
+  },
+  {
+    "base_price": 30,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 33
+  },
+  {
+    "base_price": 30,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 32
+  },
+  {
+    "base_price": 30,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 33
+  },
+  {
+    "base_price": 90,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 90,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 90,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 96
+  },
+  {
+    "base_price": 90,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 98
+  },
+  {
+    "base_price": 90,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 90,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 90,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 90,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 90,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 90,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 90,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 90,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 91,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 91,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 91,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 97
+  },
+  {
+    "base_price": 91,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 99
+  },
+  {
+    "base_price": 91,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 91,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 91,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 91,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 91,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 91,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 91,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 91,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 92,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 92,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 92,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 98
+  },
+  {
+    "base_price": 92,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 100
+  },
+  {
+    "base_price": 92,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 92,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 92,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 92,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 92,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 92,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 92,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 92,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 93,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 100
+  },
+  {
+    "base_price": 93,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 93,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 99
+  },
+  {
+    "base_price": 93,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 101
+  },
+  {
+    "base_price": 93,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 100
+  },
+  {
+    "base_price": 93,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 93,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 100
+  },
+  {
+    "base_price": 93,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 93,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 100
+  },
+  {
+    "base_price": 93,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 93,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 100
+  },
+  {
+    "base_price": 93,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 103
+  },
+  {
+    "base_price": 94,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 101
+  },
+  {
+    "base_price": 94,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 103
+  },
+  {
+    "base_price": 94,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 103
+  },
+  {
+    "base_price": 94,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 103
+  },
+  {
+    "base_price": 94,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 94,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 95,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 102
+  },
+  {
+    "base_price": 95,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 104
+  },
+  {
+    "base_price": 95,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 95,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 95,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 95,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 95,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 96,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 96,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 96,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 103
+  },
+  {
+    "base_price": 96,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 105
+  },
+  {
+    "base_price": 96,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 96,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 96,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 96,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 96,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 96,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 96,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 96,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 97,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 97,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 97,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 104
+  },
+  {
+    "base_price": 97,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 106
+  },
+  {
+    "base_price": 97,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 97,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 97,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 97,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 97,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 97,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 97,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 97,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 98,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 98,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 98,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 105
+  },
+  {
+    "base_price": 98,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 107
+  },
+  {
+    "base_price": 98,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 98,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 98,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 98,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 98,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 98,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 98,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 98,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 99,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 99,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 99,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 106
+  },
+  {
+    "base_price": 99,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 108
+  },
+  {
+    "base_price": 99,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 99,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 99,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 99,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 99,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 99,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 99,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 99,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 100,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 100,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 100,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 107
+  },
+  {
+    "base_price": 100,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 109
+  },
+  {
+    "base_price": 100,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 100,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 100,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 100,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 100,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 100,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 100,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 100,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 101,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 101,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 101,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 108
+  },
+  {
+    "base_price": 101,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 110
+  },
+  {
+    "base_price": 101,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 101,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 101,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 101,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 101,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 101,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 101,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 101,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 102,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 102,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 102,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 109
+  },
+  {
+    "base_price": 102,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 111
+  },
+  {
+    "base_price": 102,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 102,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 102,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 102,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 102,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 102,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 102,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 102,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 103,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 103,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 103,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 110
+  },
+  {
+    "base_price": 103,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 112
+  },
+  {
+    "base_price": 103,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 103,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 103,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 103,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 103,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 103,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 103,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 103,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 104,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 112
+  },
+  {
+    "base_price": 104,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 114
+  },
+  {
+    "base_price": 104,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 111
+  },
+  {
+    "base_price": 104,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 113
+  },
+  {
+    "base_price": 104,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 112
+  },
+  {
+    "base_price": 104,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 114
+  },
+  {
+    "base_price": 104,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 112
+  },
+  {
+    "base_price": 104,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 114
+  },
+  {
+    "base_price": 104,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 112
+  },
+  {
+    "base_price": 104,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 114
+  },
+  {
+    "base_price": 104,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 112
+  },
+  {
+    "base_price": 104,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 105,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 113
+  },
+  {
+    "base_price": 105,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 115
+  },
+  {
+    "base_price": 105,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 105,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 105,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 105,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 105,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 106,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 106,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 106,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 113
+  },
+  {
+    "base_price": 106,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 116
+  },
+  {
+    "base_price": 106,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 106,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 106,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 106,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 106,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 106,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 106,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 114
+  },
+  {
+    "base_price": 106,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 107,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 107,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 107,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 115
+  },
+  {
+    "base_price": 107,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 117
+  },
+  {
+    "base_price": 107,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 107,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 107,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 107,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 107,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 107,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 107,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 107,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 108,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 108,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 108,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 116
+  },
+  {
+    "base_price": 108,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 118
+  },
+  {
+    "base_price": 108,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 108,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 108,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 108,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 108,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 108,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 108,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 108,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 109,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 109,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 109,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 117
+  },
+  {
+    "base_price": 109,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 119
+  },
+  {
+    "base_price": 109,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 109,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 109,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 109,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 109,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 109,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 109,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 109,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 110,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 119
+  },
+  {
+    "base_price": 110,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 121
+  },
+  {
+    "base_price": 110,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 118
+  },
+  {
+    "base_price": 110,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 120
+  },
+  {
+    "base_price": 110,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 119
+  },
+  {
+    "base_price": 110,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 121
+  },
+  {
+    "base_price": 110,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 119
+  },
+  {
+    "base_price": 110,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 121
+  },
+  {
+    "base_price": 110,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 119
+  },
+  {
+    "base_price": 110,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 121
+  },
+  {
+    "base_price": 110,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 119
+  },
+  {
+    "base_price": 110,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 121
+  },
+  {
+    "base_price": 500,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 540
+  },
+  {
+    "base_price": 500,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 550
+  },
+  {
+    "base_price": 500,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 539
+  },
+  {
+    "base_price": 500,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 549
+  },
+  {
+    "base_price": 500,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 540
+  },
+  {
+    "base_price": 500,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 550
+  },
+  {
+    "base_price": 500,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 540
+  },
+  {
+    "base_price": 500,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 550
+  },
+  {
+    "base_price": 500,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 540
+  },
+  {
+    "base_price": 500,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 550
+  },
+  {
+    "base_price": 500,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 540
+  },
+  {
+    "base_price": 500,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 550
+  },
+  {
+    "base_price": 990,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 990,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 990,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1068
+  },
+  {
+    "base_price": 990,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1088
+  },
+  {
+    "base_price": 990,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 990,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 990,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 990,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 990,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 990,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 990,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 990,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 991,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 991,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 991,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1069
+  },
+  {
+    "base_price": 991,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1089
+  },
+  {
+    "base_price": 991,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 991,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 991,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 991,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 991,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 991,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 991,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 991,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 992,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 992,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 992,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1070
+  },
+  {
+    "base_price": 992,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1090
+  },
+  {
+    "base_price": 992,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 992,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 992,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 992,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 992,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 992,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 992,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 992,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 993,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1072
+  },
+  {
+    "base_price": 993,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 993,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1071
+  },
+  {
+    "base_price": 993,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1091
+  },
+  {
+    "base_price": 993,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1072
+  },
+  {
+    "base_price": 993,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 993,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1072
+  },
+  {
+    "base_price": 993,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 993,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1072
+  },
+  {
+    "base_price": 993,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 993,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1072
+  },
+  {
+    "base_price": 993,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 994,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 994,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1093
+  },
+  {
+    "base_price": 994,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1073
+  },
+  {
+    "base_price": 994,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1092
+  },
+  {
+    "base_price": 994,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 994,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1093
+  },
+  {
+    "base_price": 994,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 994,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1093
+  },
+  {
+    "base_price": 994,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 994,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1093
+  },
+  {
+    "base_price": 994,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 994,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1093
+  },
+  {
+    "base_price": 995,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 995,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 995,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1074
+  },
+  {
+    "base_price": 995,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1094
+  },
+  {
+    "base_price": 995,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 995,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 995,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 995,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 995,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 995,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 995,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 995,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 996,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 996,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 996,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1075
+  },
+  {
+    "base_price": 996,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1095
+  },
+  {
+    "base_price": 996,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 996,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 996,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 996,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 996,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 996,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 996,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 996,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 997,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 997,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 997,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1076
+  },
+  {
+    "base_price": 997,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1096
+  },
+  {
+    "base_price": 997,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 997,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 997,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 997,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 997,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 997,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 997,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 997,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 998,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 998,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 998,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1077
+  },
+  {
+    "base_price": 998,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1097
+  },
+  {
+    "base_price": 998,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 998,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 998,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 998,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 998,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 998,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 998,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 998,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 999,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 999,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 999,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1078
+  },
+  {
+    "base_price": 999,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1098
+  },
+  {
+    "base_price": 999,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 999,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 999,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 999,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 999,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 999,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 999,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 999,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 1000,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1000,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1000,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1079
+  },
+  {
+    "base_price": 1000,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1099
+  },
+  {
+    "base_price": 1000,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1000,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1000,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1000,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1000,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1000,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1000,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1000,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1001,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1001,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1001,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1080
+  },
+  {
+    "base_price": 1001,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1100
+  },
+  {
+    "base_price": 1001,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1001,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1001,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1001,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1001,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1001,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1001,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1001,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1002,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1002,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1002,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1081
+  },
+  {
+    "base_price": 1002,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1101
+  },
+  {
+    "base_price": 1002,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1002,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1002,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1002,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1002,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1002,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1002,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1002,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1003,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1003,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1003,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1082
+  },
+  {
+    "base_price": 1003,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1102
+  },
+  {
+    "base_price": 1003,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1003,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1003,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1003,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1003,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1003,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1003,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1003,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1004,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1084
+  },
+  {
+    "base_price": 1004,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1104
+  },
+  {
+    "base_price": 1004,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1083
+  },
+  {
+    "base_price": 1004,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1103
+  },
+  {
+    "base_price": 1004,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1084
+  },
+  {
+    "base_price": 1004,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1104
+  },
+  {
+    "base_price": 1004,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1084
+  },
+  {
+    "base_price": 1004,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1104
+  },
+  {
+    "base_price": 1004,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1084
+  },
+  {
+    "base_price": 1004,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1104
+  },
+  {
+    "base_price": 1004,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1084
+  },
+  {
+    "base_price": 1004,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1104
+  },
+  {
+    "base_price": 1005,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1005,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1005,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1085
+  },
+  {
+    "base_price": 1005,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1105
+  },
+  {
+    "base_price": 1005,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1005,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1005,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1005,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1005,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1005,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1005,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1005,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1006,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1006,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1006,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1085
+  },
+  {
+    "base_price": 1006,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1106
+  },
+  {
+    "base_price": 1006,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1006,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1006,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1006,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1006,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1006,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1006,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1086
+  },
+  {
+    "base_price": 1006,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1007,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1007,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1007,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1087
+  },
+  {
+    "base_price": 1007,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1107
+  },
+  {
+    "base_price": 1007,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1007,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1007,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1007,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1007,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1007,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1007,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1007,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1008,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1008,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1008,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1088
+  },
+  {
+    "base_price": 1008,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1108
+  },
+  {
+    "base_price": 1008,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1008,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1008,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1008,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1008,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1008,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1008,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1008,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1009,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1009,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1009,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1089
+  },
+  {
+    "base_price": 1009,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1109
+  },
+  {
+    "base_price": 1009,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1009,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1009,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1009,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1009,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1009,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1009,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1009,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1010,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1091
+  },
+  {
+    "base_price": 1010,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1111
+  },
+  {
+    "base_price": 1010,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1090
+  },
+  {
+    "base_price": 1010,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1110
+  },
+  {
+    "base_price": 1010,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1091
+  },
+  {
+    "base_price": 1010,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1111
+  },
+  {
+    "base_price": 1010,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1091
+  },
+  {
+    "base_price": 1010,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1111
+  },
+  {
+    "base_price": 1010,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1091
+  },
+  {
+    "base_price": 1010,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1111
+  },
+  {
+    "base_price": 1010,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1091
+  },
+  {
+    "base_price": 1010,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1111
+  },
+  {
+    "base_price": 1234,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1333
+  },
+  {
+    "base_price": 1234,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1357
+  },
+  {
+    "base_price": 1234,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1332
+  },
+  {
+    "base_price": 1234,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1356
+  },
+  {
+    "base_price": 1234,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1333
+  },
+  {
+    "base_price": 1234,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1357
+  },
+  {
+    "base_price": 1234,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1333
+  },
+  {
+    "base_price": 1234,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1357
+  },
+  {
+    "base_price": 1234,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1333
+  },
+  {
+    "base_price": 1234,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1357
+  },
+  {
+    "base_price": 1234,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1333
+  },
+  {
+    "base_price": 1234,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1357
+  },
+  {
+    "base_price": 1500,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 1620
+  },
+  {
+    "base_price": 1500,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 1650
+  },
+  {
+    "base_price": 1500,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 1619
+  },
+  {
+    "base_price": 1500,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 1649
+  },
+  {
+    "base_price": 1500,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 1620
+  },
+  {
+    "base_price": 1500,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 1650
+  },
+  {
+    "base_price": 1500,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 1620
+  },
+  {
+    "base_price": 1500,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 1650
+  },
+  {
+    "base_price": 1500,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 1620
+  },
+  {
+    "base_price": 1500,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 1650
+  },
+  {
+    "base_price": 1500,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 1620
+  },
+  {
+    "base_price": 1500,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 1650
+  },
+  {
+    "base_price": 2500,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 2700
+  },
+  {
+    "base_price": 2500,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 2750
+  },
+  {
+    "base_price": 2500,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 2699
+  },
+  {
+    "base_price": 2500,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 2749
+  },
+  {
+    "base_price": 2500,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 2700
+  },
+  {
+    "base_price": 2500,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 2750
+  },
+  {
+    "base_price": 2500,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 2700
+  },
+  {
+    "base_price": 2500,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 2750
+  },
+  {
+    "base_price": 2500,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 2700
+  },
+  {
+    "base_price": 2500,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 2750
+  },
+  {
+    "base_price": 2500,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 2700
+  },
+  {
+    "base_price": 2500,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 2750
+  },
+  {
+    "base_price": 9999,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 10799
+  },
+  {
+    "base_price": 9999,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 10999
+  },
+  {
+    "base_price": 9999,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 10798
+  },
+  {
+    "base_price": 9999,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 10998
+  },
+  {
+    "base_price": 9999,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 10799
+  },
+  {
+    "base_price": 9999,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 10999
+  },
+  {
+    "base_price": 9999,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 10799
+  },
+  {
+    "base_price": 9999,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 10999
+  },
+  {
+    "base_price": 9999,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 10799
+  },
+  {
+    "base_price": 9999,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 10999
+  },
+  {
+    "base_price": 9999,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 10799
+  },
+  {
+    "base_price": 9999,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 10999
+  },
+  {
+    "base_price": 12345,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 13333
+  },
+  {
+    "base_price": 12345,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 13580
+  },
+  {
+    "base_price": 12345,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 13332
+  },
+  {
+    "base_price": 12345,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 13579
+  },
+  {
+    "base_price": 12345,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 13333
+  },
+  {
+    "base_price": 12345,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 13580
+  },
+  {
+    "base_price": 12345,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 13333
+  },
+  {
+    "base_price": 12345,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 13580
+  },
+  {
+    "base_price": 12345,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 13333
+  },
+  {
+    "base_price": 12345,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 13580
+  },
+  {
+    "base_price": 12345,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 13333
+  },
+  {
+    "base_price": 12345,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 13580
+  },
+  {
+    "base_price": 100000,
+    "category": "normal",
+    "tax_rate": 0.08,
+    "result": 108000
+  },
+  {
+    "base_price": 100000,
+    "category": "normal",
+    "tax_rate": 0.1,
+    "result": 110000
+  },
+  {
+    "base_price": 100000,
+    "category": "special",
+    "tax_rate": 0.08,
+    "result": 107999
+  },
+  {
+    "base_price": 100000,
+    "category": "special",
+    "tax_rate": 0.1,
+    "result": 109999
+  },
+  {
+    "base_price": 100000,
+    "category": "unknown",
+    "tax_rate": 0.08,
+    "result": 108000
+  },
+  {
+    "base_price": 100000,
+    "category": "unknown",
+    "tax_rate": 0.1,
+    "result": 110000
+  },
+  {
+    "base_price": 100000,
+    "category": "",
+    "tax_rate": 0.08,
+    "result": 108000
+  },
+  {
+    "base_price": 100000,
+    "category": "",
+    "tax_rate": 0.1,
+    "result": 110000
+  },
+  {
+    "base_price": 100000,
+    "category": "SPECIAL",
+    "tax_rate": 0.08,
+    "result": 108000
+  },
+  {
+    "base_price": 100000,
+    "category": "SPECIAL",
+    "tax_rate": 0.1,
+    "result": 110000
+  },
+  {
+    "base_price": 100000,
+    "category": "special ",
+    "tax_rate": 0.08,
+    "result": 108000
+  },
+  {
+    "base_price": 100000,
+    "category": "special ",
+    "tax_rate": 0.1,
+    "result": 110000
+  }
+]
